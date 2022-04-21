@@ -16,5 +16,5 @@ phases:
       - python3 --version
 
 artifacts:
-files:
-- '**/*'
+  files:
+    - '**/*'
